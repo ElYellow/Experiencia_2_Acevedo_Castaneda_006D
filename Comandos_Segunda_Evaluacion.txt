@@ -1,0 +1,5 @@
+npm install @ionic/storage-angular
+
+ng add @angular/fire "cuenta para FireStore"
+
+npm i @angular/fire
